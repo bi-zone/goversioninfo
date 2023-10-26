@@ -314,7 +314,7 @@ package %v
 import (
 	"encoding/json"
 
-	"github.com/josephspurrier/goversioninfo"
+	"github.com/bi-zone/goversioninfo"
 )
 
 func unmarshalGoVersionInfo(b []byte) goversioninfo.VersionInfo {
